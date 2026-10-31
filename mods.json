@@ -1,1 +1,11 @@
-404: Not Found
+{
+    "repository": "VSMods",
+    "mods": [
+        {
+            "name": "Gold Fever Fix",
+            "description": "Gold Fever Fix for gold runs",
+            "version": "1.0.0",
+            "file": "GoldFeverFix.dll"
+        }
+    ]
+}
