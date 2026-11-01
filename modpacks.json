@@ -1,0 +1,11 @@
+{
+  "modpacks": [
+    {
+      "id": "vanilla-plus",
+      "name": "Vanilla+",
+      "description": "A lightweight quality-of-life modpack.",
+      "version": "1.0.0",
+      "file": "modpacks/vanilla-plus.json"
+    }
+  ]
+}
