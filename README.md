@@ -1,2 +1,2 @@
 # VSMods
-Base Vampire Survivors mod repo for CyzonVSModManager
+Base Vampire Survivors mod repo for Transfusion Mod Manager
